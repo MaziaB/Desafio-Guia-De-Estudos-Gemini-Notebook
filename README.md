@@ -1,5 +1,5 @@
 # Desafio-Guia-De-Estudos-Gemini-Notebook
-Esse é um miniguia de estudos criado no Gemini Notebook para lógica de programação, um conceito indispensável para  quem deseja programar, independente da linguagem utilizada. Esse miniguia tem como objetivo reforçar o estudo em lógica de programação, nos ajudando assim a aprimorar nossos códigos e a solucionar problemas com mais facilidade.
+Esse é um miniguia de estudos criado no Gemini Notebook para lógica de programação, um conceito indispensável para  quem deseja programar, independente da linguagem utilizada. Esse miniguia tem como objetivo reforçar o estudo em lógica de programação, nos ajudando assim a aprimorar nossos códigos e a solucionar problemas com mais facilidade. A seguir trago prompts e perguntas elaborados, assim como seus retornos, para exemplificar as possibilidades de utilização desse Notebook.
 
 Fontes utilizadas:
 https://proedu.rnp.br/bitstream/handle/123456789/614/Logica_programacao_PB_CAPA_ficha_ISBN_20130910.pdf?sequence=4&isAllowed=y
